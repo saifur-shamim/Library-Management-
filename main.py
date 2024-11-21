@@ -6,8 +6,6 @@ Library management project
 import adding, removing, updating, viewing
 
 
-# import removing
-
 booklist = []
 
 print("Welcome to Library management system\nSelect your operation")
