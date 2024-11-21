@@ -1,5 +1,4 @@
 
-
 def remove_books(booklist):
     print("Provide the following info of the removing book")
     id = int(input("Enter the book id: "))
@@ -19,7 +18,6 @@ def remove_books(booklist):
         "Price": price,
         "Quantity": quantity,
     }
-
 
     if book in booklist:
         booklist.remove(book)
